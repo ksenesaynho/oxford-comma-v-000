@@ -1,3 +1,3 @@
 def oxford_comma(array)
-["fiddleheads","okra","kohlrabi"].join
+if array.length == 2
 end
